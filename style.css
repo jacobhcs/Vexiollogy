@@ -63,18 +63,28 @@
   background-color: rgb(218, 26, 53);
   height: 600px;
   width: 1000px;
-  /* display: flex;
-  align-items: center; */
-  /* border-style: solid;
+  display: flex;
+  align-items: center;
+  border-style: solid;
   border-color: white;
-  border-width: 40px; */
+  border-width: 40px;
 }
 
 .vertical {
   height: 100px;
   width: 1000px;
-  background-color: rgb(126, 126, 126);
+  background-color: rgb(255, 255, 255);
   transform: rotate(35deg);
+  position: static;
+  top: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.subline {
+  height: 50px;
+  width: 1000px;
+  background-color: rgb(0, 0, 0);
   position: static;
   top: 70px;
 }
