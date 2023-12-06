@@ -18,6 +18,37 @@
   height: 200px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .sri-lanka {
   margin-top: 30px;
   background-color: rgb(255, 188, 41);
@@ -58,6 +89,38 @@
   background-color: rgb(1, 84, 78);
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .trinidad {
   margin-top: 90px;
   background-color: rgb(218, 26, 53);
@@ -68,7 +131,7 @@
   border-style: solid;
   border-color: white;
   border-width: 40px;
-  overflow: inherit;
+  overflow: hidden;
 }
 
 .vertical {
