@@ -1,0 +1,80 @@
+.germany {
+  height: 600px;
+  width: 900px;
+}
+
+.red {
+  background-color: red;
+  height: 200px;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 200px;
+}
+
+.black {
+  background-color: black;
+  height: 200px;
+}
+
+.sri-lanka {
+  margin-top: 30px;
+  background-color: rgb(255, 188, 41);
+  height: 600px;
+  width: 900px;
+  display: flex;
+  /* justify-content: end; */
+  padding: 40px;
+  gap: 40px;
+}
+
+.column1 {
+  width: 600px;
+  height: 600px;
+  background-color: rgb(140, 21, 56);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.column2 {
+  width: 300px;
+  height: 600px;
+  background-color: rgb(73, 170, 164);
+  display: flex;
+  rotate: rotate(45deg);
+}
+
+.sub-column1 {
+  width: 150px;
+  height: 600px;
+  background-color: rgb(234, 117, 0);
+}
+
+.sub-column2 {
+  width: 150px;
+  height: 600px;
+  background-color: rgb(1, 84, 78);
+}
+
+.trinidad {
+  margin-top: 90px;
+  background-color: rgb(218, 26, 53);
+  height: 600px;
+  width: 1000px;
+  /* display: flex;
+  align-items: center; */
+  /* border-style: solid;
+  border-color: white;
+  border-width: 40px; */
+}
+
+.vertical {
+  height: 100px;
+  width: 1000px;
+  background-color: rgb(126, 126, 126);
+  transform: rotate(35deg);
+  position: static;
+  top: 70px;
+}
